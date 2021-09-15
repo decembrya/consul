@@ -1,0 +1,7 @@
+ro:
+  activerecord:
+    attributes:
+      budget:
+        main_link_url: "Linkul vă duce la (adăugați un link)"
+      budget/translation:
+          main_link_text: "Textul de pe link"

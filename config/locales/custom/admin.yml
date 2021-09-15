@@ -5,15 +5,46 @@ ro:
       type_multiple: "Rubrici multiple"
       type_pending: "În dezvoltare: fără rubrici"
       type_single: "O singură rubrică"
+      edit:
+        image_description: "Dacă o imagine este încărcată va fi folosită ca banner deasupra acestui buget participativ, altfel se va folosi culoarea standard pentru bugete."
+        main_call_to_action: "Apel la acțiune principal (opțional)"
+        main_call_to_action_description: "Acest link va apărea pe bannerul principal acestui buget participativ și încurajează utilizatorul să facă o acțiune specifică precum crearea unei propuneri, votarea unei propuneri existente, sau să descopere mai multe informații despre proces."
+      help:
+        budgets: "Bugetele participative permit cetățenilor să propună și să decidă în mod direct cum se va cheltui o parte din buget, cu monitorizarea și evaluarea riguroasă a propunerilor de către instituție."
+        groups:
+          multiple: "Grupurile au rolul de a organiza rubrici. După ce un grup este creat și conține rubrici, este posibil să se stabilească în câte rubrici  din fiecare grup poate sa voteze un utilizator."
+        headings:
+          multiple: "Rubricile au rolul de a împărți banii bugetului participativâ. Aici puteți adăuga rubrici pentru acest grup și puteți atribui suma de bani care va fi folosită pentru fiecare rubrică."
+        phases: "Bugetele participative au diferite faze. Aici puteți activa sau dezactiva fazele și de asemenea puteți personaliza fazele."
+    budget_groups:
+      index:
+        new_button: "Adaugă un grup nou"
+    budget_headings:
+      index:
+        new_button: "Adaugă o rubrică nouă"
     budgets_wizard:
+      creation_timeline:
+        budget: Buget
+        groups: Grupuri
+        headings: Rubrici
+        phases: Faze
+      budgets:
+        continue: "Continuați la grupuri"
+      groups:
+        back: "Mergi înapoi la editarea bugetului"
+        continue: "Continuă spre rubrici"
+      headings:
+        continue: "Continuă spre faze"
+      phases:
+        continue: "Finalizează"
       heading_mode:
         multiple:
-          description: "Creează un proces cu multiple grupuri, districte sau subiecte. Dispuneîi de mai multe pungi cu bani. De exemplu, 25,000€ pentru \"Districtul de Nord\", 30,000€ for \"Districtul Central\", 28,000€ for \"Districtul de Sud\" și pentru întregul oraș. Sau pentru teme multiple, cum ar fi sport, cultură sau sănătate."
+          description: "Creează un proces cu multiple grupuri, districte sau subiecte. Dispuneți de mai multe pungi cu bani. De exemplu, 25,000€ pentru \"Districtul de Nord\", 30,000€ for \"Districtul Central\", 28,000€ for \"Districtul de Sud\" și pentru întregul oraș. Sau pentru teme multiple, cum ar fi sport, cultură sau sănătate."
           link: "Creează un buget cu rubrici multiple"
           title: "Buget cu <strong>rubrici multiple</strong>"
         single:
           description: "Creează un proces cu un grup, district sau subiect. Dispuneți de o singură pungă cu bani. De exemplu, 25,000€ pentru district, sau 10,000€ pentru cultură."
           link: "Creează un budget cu o singură rubrică"
-          title: "Buget cu <strong>o singura rubrică</strong>"
+          title: "Buget cu <strong>o singură rubrică</strong>"
         title: "Tipul de buget participativ"
 
