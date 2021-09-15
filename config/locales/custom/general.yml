@@ -1,0 +1,9 @@
+ro:
+  layouts:
+    header:
+      management: Administrare utilizatori
+    footer:
+      consul: CONSUL
+      contact_us: Pentru ajutor tehnic contactați .....
+
+

@@ -1,0 +1,19 @@
+ro:
+  admin:
+    budgets:
+      table_budget_type: "Tip"
+      type_multiple: "Rubrici multiple"
+      type_pending: "În dezvoltare: fără rubrici"
+      type_single: "O singură rubrică"
+    budgets_wizard:
+      heading_mode:
+        multiple:
+          description: "Creează un proces cu multiple grupuri, districte sau subiecte. Dispuneîi de mai multe pungi cu bani. De exemplu, 25,000€ pentru \"Districtul de Nord\", 30,000€ for \"Districtul Central\", 28,000€ for \"Districtul de Sud\" și pentru întregul oraș. Sau pentru teme multiple, cum ar fi sport, cultură sau sănătate."
+          link: "Creează un buget cu rubrici multiple"
+          title: "Buget cu <strong>rubrici multiple</strong>"
+        single:
+          description: "Creează un proces cu un grup, district sau subiect. Dispuneți de o singură pungă cu bani. De exemplu, 25,000€ pentru district, sau 10,000€ pentru cultură."
+          link: "Creează un budget cu o singură rubrică"
+          title: "Buget cu <strong>o singura rubrică</strong>"
+        title: "Tipul de buget participativ"
+
