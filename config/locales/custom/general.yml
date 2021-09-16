@@ -4,6 +4,9 @@ ro:
       management: Administrare utilizatori
     footer:
       consul: CONSUL
-      contact_us: Pentru ajutor tehnic contactați .....
-
+      contact_us: Pentru ajutor tehnic contactați-ne la adresa de email contact@code4.ro.
+  shared:
+    advanced_search:
+      search: "Filtrează"
+    following: "Nu mai urmăriți"
 

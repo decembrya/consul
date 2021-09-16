@@ -1,0 +1,8 @@
+ro:
+  budgets:
+    investments:
+      index:
+        sidebar:
+          change_vote_link: "schimba votul"
+
+

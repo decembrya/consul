@@ -1,7 +1,7 @@
 ro:
   admin:
     actions:
-      confirm_delete: "Sunteți sigur? Această acțiune va șterge %{resource_name} '%{name}' și nu poate fi anulată."
+      confirm_delete: "Sunteți sigur? Această acțiune va șterge %{resource_name} '%{name}' și nu poate fi revocată."
     budgets:
       index:
         table_budget_type: "Tip"
