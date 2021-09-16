@@ -9,4 +9,9 @@ ro:
     advanced_search:
       search: "Filtrează"
     following: "Nu mai urmăriți"
+    required: "Necesar"
+  form:
+    not_saved: "a/au prevenit acest/această %{resource} din a fi salvat/ă. <br>Vă rugăm să verificați câmpurile marcate pentru a ști cum să le corectați:"
+
+
 
